@@ -21,8 +21,7 @@ This project contains the following Python scripts and files:
 3. `Private_Monitor_Client.py`: Monitors and processes incoming messages from subscribed MQTT topics, providing real-time analysis and recommendations.
 4. `Local_Sample.txt`: A sample text file containing simulated network traffic data, derived from a Wireshark capture.
 5. `Recommendations.txt`: Contains recommendations based on the analysis of the incoming network traffic data.
-6. `README.md`: This documentation file.
-7. `Output/`: A directory that includes screenshots demonstrating the functioning of the scripts.
+6. `Output/`: A directory that includes screenshots demonstrating the functioning of the scripts.
 
 ## Overall Code Function
 
@@ -60,9 +59,9 @@ Make sure to replace these credentials with your own if necessary.
 The system includes a graphical user interface (GUI) that allows clients to subscribe to specific MQTT channels. The available channels are:
 
 1. **Public:** General traffic data.
-2. **<Your-student-ID>/Expected Traffic:** Data regarding expected network traffic patterns.
-3. **<Your-student-ID>/Suspicious Traffic:** Alerts and notifications about suspicious activity.
-4. **<Your-student-ID>/Solutions:** Recommendations and solutions based on the analysis.
+2. ** <Your-student-ID>/Expected Traffic:** Data regarding expected network traffic patterns.
+3. ** <Your-student-ID>/Suspicious Traffic:** Alerts and notifications about suspicious activity.
+4. ** <Your-student-ID>/Solutions:** Recommendations and solutions based on the analysis.
 
 It is recommended to subscribe to these channels first using the GUI, as this will help visualize the output of the Python scripts. This step is optional but provides a more intuitive way to observe system behavior.
 
