@@ -58,10 +58,10 @@ Make sure to replace these credentials with your own if necessary.
 
 The system includes a graphical user interface (GUI) that allows clients to subscribe to specific MQTT channels. The available channels are:
 
-1. Public: General traffic data.
-2. <Your-student-ID>/Expected Traffic: Data regarding expected network traffic patterns.
-3. <Your-student-ID>/Suspicious Traffic: Alerts and notifications about suspicious activity.
-4. <Your-student-ID>/Solutions: Recommendations and solutions based on the analysis.
+1. **Public**: General traffic data.
+2. **Your-student-ID/Expected Traffic**: Data regarding expected network traffic patterns.
+3. **Your-student-ID/Suspicious Traffic**: Alerts and notifications about suspicious activity.
+4. **Your-student-ID/Solutions**: Recommendations and solutions based on the analysis.
 
 It is recommended to subscribe to these channels first using the GUI, as this will help visualize the output of the Python scripts. This step is optional but provides a more intuitive way to observe system behavior.
 
