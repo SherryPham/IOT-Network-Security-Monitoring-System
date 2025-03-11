@@ -1,0 +1,140 @@
+No.     Time           Source                Destination           Protocol Length Info
+164 	0.641712       fe80::18d5:513b:9eac:d3e6 ff02::fb          MDNS     398    Standard query response 0x0000 PTR yeongxuen's iPhone._rdlink._tcp.local TXT TXT, cache flush SRV, cache flush 0 0 49153 yeongxuens-iPhone.local AAAA, cache flush fe80::18d5:513b:9eac:d3e6 AAAA, cache flush fd9b:ec05:b830:c068:443:b0cc:395e:1ac5 A, cache flush 172.20.2.76 NSEC, cache flush yeongxuen's iPhone._rdlink._tcp.local NSEC, cache flush yeongxuens-iPhone.local
+165 	0.642539       172.20.2.76           224.0.0.251           MDNS     378    Standard query response 0x0000 PTR yeongxuen's iPhone._rdlink._tcp.local TXT TXT, cache flush SRV, cache flush 0 0 49153 yeongxuens-iPhone.local AAAA, cache flush fe80::18d5:513b:9eac:d3e6 AAAA, cache flush fd9b:ec05:b830:c068:443:b0cc:395e:1ac5 A, cache flush 172.20.2.76 NSEC, cache flush yeongxuen's iPhone._rdlink._tcp.local NSEC, cache flush yeongxuens-iPhone.local
+166 	0.864600       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.5.196? Tell 172.20.0.1
+167 	0.865615       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.2.124? Tell 172.20.0.1
+168 	0.865615       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.6.236? Tell 172.20.0.1
+169 	0.891099       fe80::400:44f1:204:d67b ff02::16            ICMPv6   90     Multicast Listener Report Message v2
+170 	0.906396       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.6.27? Tell 172.20.0.1
+175 	0.930184       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.0.10? Tell 172.20.0.1
+176 	0.930287       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.4.148? Tell 172.20.0.1
+177 	0.961312       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.5.80? Tell 172.20.0.1
+178 	0.988767       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.7.135? Tell 172.20.0.1z
+210 	1.348732       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.7.49? Tell 172.20.0.1
+211 	1.348772       fe80::445:6d68:5976:a62f ff02::fb           MDNS     613    Standard query 0x0000 PTR _companion-link._tcp.local, "QM" question PTR _sleep-proxy._udp.local, "QM" question PTR user’s MacBook Air._companion-link._tcp.local PTR Bilal’s MacBook Pro._companion-link._tcp.local PTR Matt’s iPhone._companion-link._tcp.local PTR 늉MacBook Air._companion-link._tcp.local PTR LM-N4XT491YH0._companion-link._tcp.local PTR Ahmad’s MacBook Air._companion-link._tcp.local PTR 🥰._companion-link._tcp.local PTR iPad van Constanze (2)._companion-link._tcp.local PTR Bedroom._companion-link._tcp.local PTR iPad (8)._companion-link._tcp.local PTR AFP.GOV._companion-link._tcp.local PTR iPad (53)._companion-link._tcp.local PTR Shirleen’s MacBook Pro._companion-link._tcp.local PTR Orlando’s MacBook Air._companion-link._tcp.local PTR 70-35-60-63.1 Bedroom._sleep-proxy._udp.local OPT
+212 	1.349145       172.20.3.137          142.250.70.238        QUIC     79     Handshake, DCID=fba006d782130df6
+213 	1.349912       172.20.2.102          224.0.0.251           MDNS     593    Standard query 0x0000 PTR _companion-link._tcp.local, "QM" question PTR _sleep-proxy._udp.local, "QM" question PTR user’s MacBook Air._companion-link._tcp.local PTR Bilal’s MacBook Pro._companion-link._tcp.local PTR Matt’s iPhone._companion-link._tcp.local PTR 늉MacBook Air._companion-link._tcp.local PTR LM-N4XT491YH0._companion-link._tcp.local PTR Ahmad’s MacBook Air._companion-link._tcp.local PTR 🥰._companion-link._tcp.local PTR iPad van Constanze (2)._companion-link._tcp.local PTR Bedroom._companion-link._tcp.local PTR iPad (8)._companion-link._tcp.local PTR AFP.GOV._companion-link._tcp.local PTR iPad (53)._companion-link._tcp.local PTR Shirleen’s MacBook Pro._companion-link._tcp.local PTR Orlando’s MacBook Air._companion-link._tcp.local PTR 70-35-60-63.1 Bedroom._sleep-proxy._udp.local OPT
+214 	1.357958       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.4.161? Tell 172.20.0.1
+215 	1.362621       142.250.70.238        172.20.3.137          TCP      66     443 → 58889 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1412 SACK_PERM WS=256
+216 	1.362727       172.20.3.137          142.250.70.238        TCP      54     58889 → 443 [ACK] Seq=1 Ack=1 Win=66304 Len=0
+217 	1.362889       172.20.3.137          142.250.70.238        QUIC     79     Handshake, DCID=fba006d782130df6
+218 	1.363001       172.20.6.223          224.0.0.251           MDNS     158    Standard query 0x0000 PTR _CC32E753._sub._googlecast._tcp.local, "QM" question PTR Chromecast-HD-a4df318b6db29903d0bc686973983b2f._googlecast._tcp.local
+219 	1.363486       172.20.3.137          142.250.70.238        TLSv1.3  625    Client Hello
+220 	1.366813       fe80::491:3b94:189c:80d5 ff02::fb           MDNS     178    Standard query 0x0000 PTR _CC32E753._sub._googlecast._tcp.local, "QM" question PTR Chromecast-HD-a4df318b6db29903d0bc686973983b2f._googlecast._tcp.local
+221 	1.367957       142.250.70.238        172.20.3.137          TCP      56     443 → 58889 [ACK] Seq=1 Ack=572 Win=66816 Len=0
+244 	1.427411       172.20.1.184          224.0.0.251           MDNS     126    Standard query 0x0000 PTR lb._dns-sd._udp.local, "QU" question PTR _atc._tcp.local, "QU" question OPT
+245 	1.427790       fe80::1868:f2b0:c98d:a8a0 ff02::fb          MDNS     146    Standard query 0x0000 PTR lb._dns-sd._udp.local, "QU" question PTR _atc._tcp.local, "QU" question OPT
+246 	1.427902       172.20.3.137          142.250.70.238        QUIC     81     Handshake, DCID=fba006d782130df6
+247 	1.429034       172.20.3.137          142.250.70.238        QUIC     206    Protected Payload (KP0), DCID=fba006d782130df6
+248 	1.429579       172.20.3.137          142.250.70.238        QUIC     1288   Protected Payload (KP0), DCID=fba006d782130df6
+249 	1.429648       172.20.3.137          142.250.70.238        QUIC     687    Protected Payload (KP0), DCID=fba006d782130df6
+250 	1.432520       192.168.220.85        10.100.10.115         TELNET   87     Telnet Data ...
+251 	1.432520       142.250.70.238        172.20.3.137          QUIC     179    Protected Payload (KP0)
+252 	1.432728       142.250.70.238        172.20.3.137          QUIC     69     Protected Payload (KP0)
+253 	1.432890       172.20.3.137          142.250.70.238        QUIC     76     Protected Payload (KP0), DCID=fba006d782130df6
+254 	1.433039       172.20.3.137          142.250.70.238        QUIC     75     Protected Payload (KP0), DCID=fba006d782130df6
+255 	1.433187       172.20.3.137          142.250.70.238        QUIC     75     Protected Payload (KP0), DCID=fba006d782130df6
+256 	1.468016       142.250.70.238        172.20.3.137          TLSv1.3  1466   Server Hello, Change Cipher Spec
+257 	1.468016       142.250.70.238        172.20.3.137          TCP      1466   443 → 58889 [ACK] Seq=1413 Ack=572 Win=66816 Len=1412 [TCP segment of a reassembled PDU]
+258 	1.468016       142.250.70.238        172.20.3.137          TCP      1466   443 → 58889 [PSH, ACK] Seq=2825 Ack=572 Win=66816 Len=1412 [TCP segment of a reassembled PDU]
+259 	1.468016       142.250.70.238        172.20.3.137          TCP      1466   443 → 58889 [ACK] Seq=4237 Ack=572 Win=66816 Len=1412 [TCP segment of a reassembled PDU]
+260 	1.468016       142.250.70.238        172.20.3.137          TLSv1.3  1345   Application Data
+261 	1.468016       10.100.10.110         10.100.110.50         SSH      102    Client: Encrypted packet (len=36)
+262 	1.468016       10.100.110.45         10.100.10.110         TCP      1434   3389 → 54664 [ACK] Seq=89084 Ack=3240 Win=63044 Len=1368 TSval=7624579 TSecr=2491127774 [TCP segment of a reassembled PDU]
+263 	1.468221       10.100.110.45         10.100.10.110         TLSv1.2  383    Application Data
+264 	1.469079       10.100.110.45         10.100.10.110         TLSv1.2  935    Application Data
+265 	1.469418       192.168.220.45        10.100.10.110         TLSv1.2  1751   Application Data
+266 	1.495191       10.100.10.110         192.168.220.50        SSH      102    Client: Encrypted packet (len=36)
+267 	1.500244       192.168.220.45        10.100.10.110         TLSv1.2  935    Application Data
+268 	1.500244       192.168.220.50        10.100.10.110         SSH      102    Server: Encrypted packet (len=36)
+269 	1.500923       10.100.110.50         10.100.10.110         SSH      102    Server: Encrypted packet (len=36)
+270 	1.502131       VMware_a8:a2:bb       VMware_a8:6e:74       ARP      60     Who has 192.168.220.35? Tell 192.168.220.20
+271 	1.502794       VMware_a8:6e:74       VMware_a8:a2:bb       ARP      60     192.168.220.35 is at 00:50:56:a8:6e:7
+272 	1.502794       fe80::6a4f:64ff:fe4d:22cc fe80::1:1         ICMPv6   86     Neighbor Solicitation for fe80::1:1 from 68:4f:64:4d:22:cc
+273 	1.503682       fe80::6a4f:64ff:fe4d:22cc fe80::1:1         ICMPv6   86     Neighbor Solicitation for fe80::1:1 from 68:4f:64:4d:22:cc
+279 	1.542757       172.20.3.137          142.250.70.238        TCP      54     58889 → 443 [ACK] Seq=646 Ack=7906 Win=65280 Len=0
+300 	1.623810       142.250.70.238        172.20.3.137          QUIC     774    Protected Payload (KP0)
+301 	1.624001       fe80::805:21b5:6573:cf4c ff02::fb           MDNS     172    Standard query response 0x0000 PTR Levy's iPhone._rdlink._tcp.local TXT
+302 	1.624305       172.20.3.168          224.0.0.251           MDNS     152    Standard query response 0x0000 PTR Levy's iPhone._rdlink._tcp.local TXT
+303 	1.624569       SuperMic_bd:49:5f     IntelCor_e6:4d:0d     ARP      60     Who has 172.20.1.67? Tell 172.20.0.2
+304 	1.624603       142.250.70.238        172.20.3.137          QUIC     76     Protected Payload (KP0)
+305 	1.624603       142.250.70.238        172.20.3.137          QUIC     173    Protected Payload (KP0)
+306 	1.638778       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.3.185? Tell 172.20.0.1
+307 	1.654664       172.20.0.21           224.0.0.251           MDNS     448    Standard query response 0x0000 PTR Chun的MacBook Pro._companion-link._tcp.local TXT TXT, cache flush SRV, cache flush 0 0 49152 ChundeMacBook-Pro.local A, cache flush 172.20.0.21 AAAA, cache flush fe80::c1e:2d8b:5a42:66fa AAAA, cache flush fd9b:ec05:b830:c068:8c9:8c7a:29e2:73a0 NSEC, cache flush Chun的MacBook Pro._companion-link._tcp.local NSEC, cache flush ChundeMacBook-Pro.local
+308 	1.655074       fe80::c1e:2d8b:5a42:66fa ff02::fb           MDNS     468    Standard query response 0x0000 PTR Chun的MacBook Pro._companion-link._tcp.local TXT TXT, cache flush SRV, cache flush 0 0 49152 ChundeMacBook-Pro.local A, cache flush 172.20.0.21 AAAA, cache flush fe80::c1e:2d8b:5a42:66fa AAAA, cache flush fd9b:ec05:b830:c068:8c9:8c7a:29e2:73a0 NSEC, cache flush Chun的MacBook Pro._companion-link._tcp.local NSEC, cache flush ChundeMacBook-Pro.local
+309 	1.673118       142.250.70.238        172.20.3.137          QUIC     774    Protected Payload (KP0)
+310 	1.678868       172.20.3.137          142.250.70.238        QUIC     78     Protected Payload (KP0), DCID=fba006d782130df6
+311 	1.679128       172.20.3.137          142.250.70.238        QUIC     73     Protected Payload (KP0), DCID=fba006d782130df6
+312	 	1.679341       172.20.3.137          142.250.70.238        QUIC     75     Protected Payload (KP0), DCID=fba006d782130df6
+313 	1.686435       172.20.3.137          172.17.137.254        DNS      80     Standard query 0x3005 A beacons.gcp.gvt2.com
+314 	1.687376       172.20.3.137          172.17.137.254        DNS      80     Standard query 0x3009 HTTPS beacons.gcp.gvt2.com
+315 	1.696171       172.17.137.254        172.20.3.137          DNS      152    Standard query response 0x3005 A beacons.gcp.gvt2.com CNAME beacons-handoff.gcp.gvt2.com CNAME gce-beacons.gcp.gvt2.com A 35.227.234.134
+316 	1.696171       172.17.137.254        172.20.3.137          DNS      204    Standard query response 0x3009 HTTPS beacons.gcp.gvt2.com CNAME beacons-handoff.gcp.gvt2.com CNAME gce-beacons.gcp.gvt2.com SOA ns1.google.com
+326 	1.746058       172.20.3.137          35.227.234.134        TCP      66     58890 → 443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM
+327 	1.751431       10.100.10.109         10.100.109.30         SSH      102    Client: Encrypted packet (len=36)
+328 	1.751899       10.100.10.109         192.168.220.30        SSH      102    Client: Encrypted packet (len=36)
+329 	1.753591       192.168.220.30        10.100.10.109         SSH      102    Server: Encrypted packet (len=36)
+330 	1.755562       10.100.109.30         10.100.10.109         SSH      102    Server: Encrypted packet (len=36)
+331 	1.755562       35.227.234.134        172.20.3.137          TCP      66     443 → 58890 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1412 SACK_PERM WS=256
+332 	1.755562       35.227.234.134        172.20.3.137          QUIC     163    Protected Payload (KP0)
+333 	1.755743       172.20.3.137          35.227.234.134        TCP      54     58890 → 443 [ACK] Seq=1 Ack=1 Win=66304 Len=0
+334 	1.756568       172.20.3.137          35.227.234.134        TLSv1.3  658    Client Hello
+335 	1.757123       172.20.3.137          35.227.234.134        QUIC     73     Protected Payload (KP0), DCID=fdb955cb52894f62
+336 	1.761869       35.227.234.134        172.20.3.137          TCP      56     443 → 58890 [ACK] Seq=1 Ack=605 Win=66816 Len=0
+337 	1.761869       35.227.234.134        172.20.3.137          QUIC     69     Protected Payload (KP0)
+338 	1.767484       35.227.234.134        172.20.3.137          TLSv1.3  1466   Server Hello, Change Cipher Spec
+339 	1.767484       35.227.234.134        172.20.3.137          TCP      1466   443 → 58890 [PSH, ACK] Seq=1413 Ack=605 Win=66816 Len=1412 [TCP segment of a reassembled PDU]
+340 	1.767484       35.227.234.134        172.20.3.137          TCP      1466   443 → 58890 [ACK] Seq=2825 Ack=605 Win=66816 Len=1412 [TCP segment of a reassembled PDU]
+341 	1.767484       35.227.234.134        172.20.3.137          TLSv1.3  518    Application Data
+342 	1.767695       172.20.3.137          35.227.234.134        TCP      54     58890 → 443 [ACK] Seq=605 Ack=4701 Win=66304 Len=0
+343 	1.768432       172.20.3.137          35.227.234.134        TLSv1.3  118    Change Cipher Spec, Application Data
+344 	1.773083       35.227.234.134        172.20.3.137          TLSv1.3  640    Application Data, Application Data
+345 	1.785477       172.20.3.234          224.0.0.251           MDNS     470    Standard query response 0x0000 PTR MacBook Air de Crystal._companion-link._tcp.local TXT TXT, cache flush SRV, cache flush 0 0 50055 MacBook-Air-de-Crystal.local AAAA, cache flush fe80::8b3:71e5:934a:716b A, cache flush 172.20.3.234 AAAA, cache flush fd9b:ec05:b830:c068:1401:d563:30e4:616a NSEC, cache flush MacBook Air de Crystal._companion-link._tcp.local NSEC, cache flush MacBook-Air-de-Crystal.local OPT
+346 	1.786010       fe80::8b3:71e5:934a:716b ff02::fb           MDNS     490    Standard query response 0x0000 PTR MacBook Air de Crystal._companion-link._tcp.local TXT TXT, cache flush SRV, cache flush 0 0 50055 MacBook-Air-de-Crystal.local AAAA, cache flush fe80::8b3:71e5:934a:716b A, cache flush 172.20.3.234 AAAA, cache flush fd9b:ec05:b830:c068:1401:d563:30e4:616a NSEC, cache flush MacBook Air de Crystal._companion-link._tcp.local NSEC, cache flush MacBook-Air-de-Crystal.local OPT
+347 	1.795523       172.20.3.137          35.227.234.134        QUIC     74     Protected Payload (KP0), DCID=fdb955cb52894f62
+348 	1.826725       172.20.3.137          35.227.234.134        TCP      54     58890 → 443 [ACK] Seq=669 Ack=5287 Win=65536 Len=0
+349 	1.835446       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.1.218? Tell 172.20.0.1
+356 	1.854983       172.20.3.137          172.17.137.254        DNS      75     Standard query 0x6e05 A chat.openai.com
+357 	1.855450       172.20.3.137          172.17.137.254        DNS      75     Standard query 0x1732 HTTPS chat.openai.com
+358 	1.857913       172.17.137.254        172.20.3.137          DNS      196    Standard query response 0x1732 HTTPS chat.openai.com CNAME chat.openai.com.cdn.cloudflare.net HTTPS
+359 	1.864592       fe80::f0fe:b7aa:9ecf:8ada ff02::1:2         DHCPv6   145    Solicit XID: 0xfa75e7 CID: 00010001272b860704ea5654cebe 
+360 	1.871684       172.17.137.254        172.20.3.137          DNS      155    Standard query response 0x6e05 A chat.openai.com CNAME chat.openai.com.cdn.cloudflare.net A 104.18.37.228 A 172.64.150.28
+371 	1.884041       10.100.10.113         10.100.113.12         TELNET   70     Telnet Data ...
+372 	1.891463       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.2.124? Tell 172.20.0.1
+373 	1.891536       104.18.37.228         172.20.3.137          QUIC     575    Protected Payload (KP0)
+374 	1.891536       10.100.10.113         10.100.113.12         TELNET   99     Telnet Data ...
+375 	1.891536       10.100.10.113         192.168.220.12        HTTP     84     GET / HTTP/1.0
+376 	1.891536       10.100.10.113         192.168.220.12        TELNET   99     Telnet Data ...
+377 	1.891536       10.100.10.113         10.100.113.12         HTTP     88     OPTIONS / HTTP/1.0
+378 	1.891536       104.18.37.228         172.20.3.137          QUIC     65     Protected Payload (KP0)
+379 	1.891536       104.18.37.228         172.20.3.137          QUIC     66     Protected Payload (KP0)
+380 	1.892259       172.20.3.137          104.18.37.228         QUIC     85     Protected Payload (KP0), DCID=01ae603420eb92f3c6ae4f3495ebb1a34afabcf0
+381 	1.892505       172.20.3.137          104.18.37.228         QUIC     89     Protected Payload (KP0), DCID=01ae603420eb92f3c6ae4f3495ebb1a34afabcf0
+382 	1.901199       104.18.37.228         172.20.3.137          QUIC     70     Protected Payload (KP0)
+383 	1.902372       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.6.236? Tell 172.20.0.1
+393 	1.959053       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.0.10? Tell 172.20.0.1
+394 	1.959053       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.4.148? Tell 172.20.0.1
+395 	1.973634       172.20.3.214          224.0.0.251           MDNS     158    Standard query 0x0000 PTR _C3DE6BC2._sub._googlecast._tcp.local, "QM" question PTR Chromecast-HD-a4df318b6db29903d0bc686973983b2f._googlecast._tcp.local
+396 	1.977875       fe80::c4a:ce9e:b10d:9e65 ff02::fb           MDNS     178    Standard query 0x0000 PTR _C3DE6BC2._sub._googlecast._tcp.local, "QM" question PTR Chromecast-HD-a4df318b6db29903d0bc686973983b2f._googlecast._tcp.local
+397 	2.022855       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.7.135? Tell 172.20.0.1
+418 	2.257014       fe80::1472:ad1a:eee1:5279 ff02::fb          MDNS     996    Standard query 0x0000 PTR _airplay._tcp.local, "QM" question PTR _raop._tcp.local, "QM" question PTR Amirreza’s MacBook Air._airplay._tcp.local PTR LM-N4XT491YH0._airplay._tcp.local PTR Orlando’s MacBook Air._airplay._tcp.local PTR Ahmad’s MacBook Air._airplay._tcp.local PTR 늉MacBook Air._airplay._tcp.local PTR Bilal’s MacBook Pro._airplay._tcp.local PTR Bedroom._airplay._tcp.local PTR 🥰._airplay._tcp.local PTR Chun的MacBook Pro._airplay._tcp.local PTR Shirleen’s MacBook Pro._airplay._tcp.local PTR Room 1.19._airplay._tcp.local PTR QS01._airplay._tcp.local PTR 00E0DB53E27C@Room 1.19._raop._tcp.local PTR BCD0745C8F09@LM-N4XT491YH0._raop._tcp.local PTR 3CA6F651A0EB@Orlando’s MacBook Air._raop._tcp.local PTR A4C6F0238910@Ahmad’s MacBook Air._raop._tcp.local PTR 80657CF09FE3@Amirreza’s MacBook Air._raop._tcp.local PTR CC08FA62CB09@늉MacBook Air._raop._tcp.local PTR 3C06303739B8@Bilal’s MacBook Pro._raop._tcp.local PTR D0034B0F985E@Bedroom._raop._tcp.local PTR 50ED3C05690C@🥰._raop._tcp.local PTR 9C3E5385EE50@Chun的MacBook Pro._raop._tcp.local PTR 3C06303C41BA@Shirleen’s MacBook Pro._raop._tcp.local PTR d4:65:15:09:1f:5f@QS01._raop._tcp.local
+419 	2.258850       fe80::1a8a:4f3b:b258:321b ff02::1:2         DHCPv6   161    Solicit XID: 0xec5728 CID: 000100012c929a51ac91a1553d17 
+420 	2.265409       172.20.3.137          172.17.137.254        DNS      76     Standard query 0x30c7 A featuregates.org
+421 	2.266210       172.20.3.137          172.17.137.254        DNS      76     Standard query 0xbcf5 HTTPS featuregates.org
+422 	2.268829       fe80::1a8a:4f3b:b258:321b ff02::16          ICMPv6   90     Multicast Listener Report Message v2
+423 	2.268903       172.17.137.254        172.20.3.137          DNS      161    Standard query response 0xbcf5 HTTPS featuregates.org SOA ns-1530.awsdns-63.org
+424 	2.281475       fe80::1a8a:4f3b:b258:321b ff02::16          ICMPv6   90     Multicast Listener Report Message v2
+425 	2.281475       fe80::1a8a:4f3b:b258:321b ff02::16          ICMPv6   90     Multicast Listener Report Message v2
+426 	2.281475       fe80::1a8a:4f3b:b258:321b ff02::16          ICMPv6   90     Multicast Listener Report Message v2
+432 	2.363377       172.17.137.254        172.20.3.137          DNS      92     Standard query response 0x30c7 A featuregates.org A 34.120.214.181
+433 	2.371157       SuperMic_c2:dd:2e     IntelCor_e6:4d:0d     ARP      56     Who has 172.20.4.161? Tell 172.20.0.1
+434 	2.371242       172.20.1.171          224.0.0.251           MDNS     103    Standard query 0x0445 PTR _googlecast._tcp.local, "QM" question PTR _CA5E8412._sub._googlecast._tcp.local, "QM" question
+435 	2.374001       172.20.3.137          34.120.214.181        QUIC     1292   Initial, DCID=1340a79ad0fe3438, PKN: 1, PING, CRYPTO, PADDING, PING, PADDING, PING, PING, PADDING, CRYPTO, PING, PADDING, PING, CRYPTO, PADDING, CRYPTO, PADDING, PING, PADDING
+436 	2.394001       172.20.6.252          224.0.0.251           MDNS     370    Standard query response 0x0000 PTR QS01-9830c8ee0398b9b48412ccf0e9cebe62._googlecast._tcp.local TXT, cache flush SRV, cache flush 0 0 8009 9830c8ee-0398-b9b4-8412-ccf0e9cebe62.local A, cache flush 172.20.6.252
+437 	2.394001       34.120.214.181        172.20.3.137          QUIC     1292   Handshake, SCID=f340a79ad0fe3438
+438 	2.394001       34.120.214.181        172.20.3.137          QUIC     1292   Handshake, SCID=f340a79ad0fe3438
+439 	2.394001       34.120.214.181        172.20.3.137          QUIC     1292   Handshake, SCID=f340a79ad0fe3438
+440 	2.411722       172.20.3.137          34.120.214.181        TCP      66     58891 → 443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM
+441 	2.415802       172.20.1.223          224.0.0.251           MDNS     420    Standard query response 0x0000 PTR Chromecast-HD-a4df318b6db29903d0bc686973983b2f._googlecast._tcp.local TXT, cache flush SRV, cache flush 0 0 8009 a4df318b-6db2-9903-d0bc-686973983b2f.local A, cache flush 172.20.1.223
+442 	2.415802       34.120.214.181        172.20.3.137          TCP      66     443 → 58891 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1412 SACK_PERM WS=256
+443 	2.416265       172.20.3.137          34.120.214.181        TCP      54     58891 → 443 [ACK] Seq=1 Ack=1 Win=66304 Len=0
