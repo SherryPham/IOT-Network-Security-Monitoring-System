@@ -50,8 +50,8 @@ Before running the scripts, you need to configure the MQTT broker. Use the follo
 
 - **Broker Address:** `rule28.i4t.swin.edu.au` (This is the address of the MQTT broker you will connect to)
 - **Port:** `1883` (The default port for MQTT communication)
-- **Username:** `103818400` (Your unique username for broker authentication)
-- **Password:** `103818400` (Your password for broker authentication)
+- **Username:** `<Your-student-ID>` (Your unique username for broker authentication)
+- **Password:** `<Your-student-ID>` (Your password for broker authentication)
 
 Make sure to replace these credentials with your own if necessary.
 
@@ -60,9 +60,9 @@ Make sure to replace these credentials with your own if necessary.
 The system includes a graphical user interface (GUI) that allows clients to subscribe to specific MQTT channels. The available channels are:
 
 1. **Public:** General traffic data.
-2. **103818400/Expected Traffic:** Data regarding expected network traffic patterns.
-3. **103818400/Suspicious Traffic:** Alerts and notifications about suspicious activity.
-4. **103818400/Solutions:** Recommendations and solutions based on the analysis.
+2. **<Your-student-ID>/Expected Traffic:** Data regarding expected network traffic patterns.
+3. **<Your-student-ID>/Suspicious Traffic:** Alerts and notifications about suspicious activity.
+4. **<Your-student-ID>/Solutions:** Recommendations and solutions based on the analysis.
 
 It is recommended to subscribe to these channels first using the GUI, as this will help visualize the output of the Python scripts. This step is optional but provides a more intuitive way to observe system behavior.
 
